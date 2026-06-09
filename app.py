@@ -7,7 +7,7 @@ def lanzar_dados(amount, sides):
     return resultados
 
 amount = 5
-sides = 6
+sides = 20
 
 resultados_obtenidos = lanzar_dados(amount, sides)
 
