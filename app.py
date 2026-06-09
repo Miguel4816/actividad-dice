@@ -6,7 +6,7 @@ def lanzar_dados(amount, sides):
     resultados = dice.roll(formula)
     return resultados
 
-amount = 5
+amount = 6
 sides = 6
 
 resultados_obtenidos = lanzar_dados(amount, sides)
